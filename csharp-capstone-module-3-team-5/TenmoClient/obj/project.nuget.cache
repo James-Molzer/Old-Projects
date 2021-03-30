@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0rG5Tk7U2yofgziRU8PDYdxxXMh7LW+o0WYdkQ8p3d5Xib2ZCv++gG7gyiuZqwMsjxoUZYZ+uT2GcVGPXGXgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Documents\\Tech school work\\cap stone\\csharp-capstone-module-3-team-5\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
